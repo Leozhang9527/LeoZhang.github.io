@@ -1,3 +1,3 @@
-# Leo_Portfolio
-My data science portfolio
-new
+# Data Scientist
+
+### Education
